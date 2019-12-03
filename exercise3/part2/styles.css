@@ -1,0 +1,28 @@
+#homePage {
+    background-color: brown;
+    text-transform: uppercase;
+}
+
+#aboutPage {
+    background-color: gray;
+}
+
+#contactPage {
+    background-color: hotpink;
+}
+
+#homePage, #aboutPage, #contactPage {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 30px;
+}
+
+a {
+    margin: 0 50px;
+}

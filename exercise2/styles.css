@@ -1,0 +1,13 @@
+body {
+    background-color: cyan;
+}
+
+#header {
+    font-size: 60px;
+    color: red;
+}
+
+.para1 {
+    font-size: 30px;
+    color: green;
+}
